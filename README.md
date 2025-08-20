@@ -55,7 +55,7 @@ Deployment Sites | Thu Duc Headquarters & District 3 Branch |
 
 ---
 
-## 📊 Bảng phân tích thiết bị
+## 📊 Devices Table
 
 | Devices          | Quantity | Notes|
 |--------------------|----------|---------|
