@@ -24,19 +24,19 @@
   <strong>📌 Overall Network Topology:</strong><br>
 
   
-  ![TSC](https://github.com/MHabc/design-enterprise-network-project/blob/main/Picture1.png)
+  ![TSC](https://github.com/MHabc/design-enterprise-network-system-project/blob/master/Picture1.png)
 
 
   <strong>🏢 Headquarters – Thu Duc City:</strong><br>
 
 
-  ![TSC](https://github.com/MHabc/design-enterprise-network-project/blob/main/Picture2.png)
+  ![TSC](https://github.com/MHabc/design-enterprise-network-system-project/blob/master/Picture2.png)
 
 
   <strong>🏬 Branch Office – District 3:</strong><br>
 
 
-  ![CN](https://github.com/MHabc/design-enterprise-network-project/blob/main/Picture3.png)
+  ![CN](https://github.com/MHabc/design-enterprise-network-system-project/blob/master/Picture3.png)
 
 
 </p>
